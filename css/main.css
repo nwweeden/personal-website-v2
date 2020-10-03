@@ -1105,7 +1105,7 @@ header .row {
 header .top-bar {
 	display: block;
 	background: #000000;
-	min-width: 130px;
+	min-width: 140px;
 	min-height: 66px;
 	position: absolute;
 	left: 90px;
@@ -1241,7 +1241,7 @@ header .explore {
 /* dropdown nav */
 .main-navigation {
 	background: #000000;
-	padding: 24px 30px 42px;
+	padding: 2px 30px 2px;
 	margin: 0;
 	width: 100%;
 	height: auto;
